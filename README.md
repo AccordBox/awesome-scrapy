@@ -57,18 +57,18 @@
 
 ### Articles
 
-[Scrapy VS Beautiful Soup](https://blog.michaelyin.info/2017/08/10/scrapy-tutorial-1-scrapy-vs-beautiful-soup/)
+* [Scrapy VS Beautiful Soup](https://blog.michaelyin.info/2017/08/10/scrapy-tutorial-1-scrapy-vs-beautiful-soup/)
 
-[Scrapy VS Selenium](https://blog.michaelyin.info/2017/11/06/web-scraping-framework-review-scrapy-vs-selenium/)
+* [Scrapy VS Selenium](https://blog.michaelyin.info/2017/11/06/web-scraping-framework-review-scrapy-vs-selenium/)
 
-[Web Scraping in Python using Scrapy (with multiple examples)](£https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/)
+* [Web Scraping in Python using Scrapy (with multiple examples)](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/)
 
-[Advanced Web Scraping: Bypassing "403 Forbidden," captchas, and more](http://sangaline.com/post/advanced-web-scraping-tutorial/)
+* [Advanced Web Scraping: Bypassing "403 Forbidden," captchas, and more](http://sangaline.com/post/advanced-web-scraping-tutorial/)
 
 ### Video
 
-[Scrapy: Powerful Web Scraping & Crawling with Python](https://www.udemy.com/scrapy-tutorial-web-scraping-with-python/)
+* [Scrapy: Powerful Web Scraping & Crawling with Python](https://www.udemy.com/scrapy-tutorial-web-scraping-with-python/) Online courses on Udemy
 
 ### Book
 
-[Learning Scrapy](https://www.amazon.com/dp/B0166Y6Z70/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [Learning Scrapy](https://www.amazon.com/dp/B0166Y6Z70/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
