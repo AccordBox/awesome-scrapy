@@ -13,9 +13,9 @@
     - [Data Processing](#data-processing)
     - [Process Javascript](#process-javascript)
 - [Resources](#resources)
-    - [Video Tutorial](#video-tutorial)
-    - [Book](#book)
     - [Articles](#articles)
+    - [Video](#video)
+    - [Book](#book)
 
 ## Apps
 
