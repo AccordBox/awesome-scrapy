@@ -16,6 +16,7 @@
     - [Other Useful Extensions](#other-useful-extensions)
 - [Resources](#resources)
     - [Articles](#articles)
+    - [Exercises](#exercises)
     - [Video](#video)
     - [Book](#book)
 
@@ -107,7 +108,13 @@
 
 * [Web Scraping in Python using Scrapy (with multiple examples)](https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/)
 
+* [Scrapy Tutorial Series: Web Scraping Using Python](https://www.accordbox.com/blog/scrapy-tutorial-series-web-scraping-using-python/)
+
 * [Advanced Web Scraping: Bypassing "403 Forbidden," captchas, and more](http://sangaline.com/post/advanced-web-scraping-tutorial/)
+
+### Exercises
+
+* [Learn and improve web scraping skills with Web Scraping Exercises](https://scrapingclub.com/)
 
 ### Video
 
