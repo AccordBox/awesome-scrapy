@@ -9,6 +9,7 @@
     - [Visual Web Scraping](#visual-web-scraping)
     - [Distributed Spider](#distributed-spider)
     - [Scrapy Service](#scrapy-service)
+    - [Front-End Scrapy Managers](#front-end-scrapy-managers)
     - [Monitor](#monitor)
     - [Avoid Ban](#avoid-ban)
     - [Data Processing](#data-processing)
@@ -43,6 +44,14 @@
 * [SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) A scalable admin ui for spider service
 
 * [scrapyrt](https://github.com/scrapinghub/scrapyrt) HTTP server which provides API for scheduling Scrapy spiders and making requests with spiders.
+
+### Front-End Scrapy Managers
+
+* [Gerapy](https://github.com/Gerapy/Gerapy) Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Scrapyd-Client, Scrapyd-API, Django and Vue.js
+
+* [SpiderKeeper](https://github.com/DormyMo/SpiderKeeper) admin ui for scrapy/open source scrapinghub.
+
+* [ScrapydWeb](https://github.com/my8100/scrapydweb) Scrapyd cluster management, Scrapy log analysis & visualization, Basic auth, Auto packaging, Timer Tasks, Email notice, and Mobile UI.
 
 ### Monitor
 
