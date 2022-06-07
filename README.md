@@ -74,6 +74,8 @@
 
 * [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) MongoDB pipeline for Scrapy.
 
+* [scrapy-mysql-pipeline](https://github.com/IaroslavR/scrapy-mysql-pipeline) MySQL pipeline to persist items in MySQL databases.
+
 * [scrapy-s3pipeline](https://github.com/orangain/scrapy-s3pipeline) Scrapy pipeline to store chunked items into AWS S3 bucket
 
 * [scrapy-sqs-exporter](https://github.com/multiplechoice/scrapy-sqs-exporter) Scrapy extension for outputting scraped items to an Amazon SQS instance
@@ -84,6 +86,7 @@
 
 ### Process Javascript
 
+* [scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) Enable scraping dynamic pages using PlayWright.
 * [scrapy-splash](https://github.com/scrapy-plugins/scrapy-splash) Make Scrapy can understand Javascript
 
 ### Other Useful Extensions
@@ -99,6 +102,8 @@
 * [scrapy-pagestorage](https://github.com/scrapy-plugins/scrapy-pagestorage) A scrapy extension to store requests and responses information in storage service.
 
 * [itemloaders](https://github.com/scrapy/itemloaders) Library to populate items using XPath and CSS with a convenient API.
+
+* [itemadapter](https://github.com/scrapy/itemadapter) Adapter which provides a common interface to handle objects of different types in an uniform manner.
 
 ## Resources
 
