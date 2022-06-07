@@ -84,6 +84,7 @@
 
 ### Process Javascript
 
+* [scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) Enable scraping dynamic pages using PlayWright.
 * [scrapy-splash](https://github.com/scrapy-plugins/scrapy-splash) Make Scrapy can understand Javascript
 
 ### Other Useful Extensions
