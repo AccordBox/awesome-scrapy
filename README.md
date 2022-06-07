@@ -74,6 +74,8 @@
 
 * [scrapy-mongodb](https://github.com/sebdah/scrapy-mongodb) MongoDB pipeline for Scrapy.
 
+* [scrapy-mysql-pipeline](https://github.com/IaroslavR/scrapy-mysql-pipeline) MySQL pipeline to persist items in MySQL databases.
+
 * [scrapy-s3pipeline](https://github.com/orangain/scrapy-s3pipeline) Scrapy pipeline to store chunked items into AWS S3 bucket
 
 * [scrapy-sqs-exporter](https://github.com/multiplechoice/scrapy-sqs-exporter) Scrapy extension for outputting scraped items to an Amazon SQS instance
