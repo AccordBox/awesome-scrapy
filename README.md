@@ -101,6 +101,8 @@
 
 * [scrapy-pagestorage](https://github.com/scrapy-plugins/scrapy-pagestorage) A scrapy extension to store requests and responses information in storage service.
 
+* [itemloaders](https://github.com/scrapy/itemloaders) Library to populate items using XPath and CSS with a convenient API.
+
 * [itemadapter](https://github.com/scrapy/itemadapter) Adapter which provides a common interface to handle objects of different types in an uniform manner.
 
 ## Resources
