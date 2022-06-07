@@ -98,6 +98,8 @@
 
 * [scrapy-pagestorage](https://github.com/scrapy-plugins/scrapy-pagestorage) A scrapy extension to store requests and responses information in storage service.
 
+* [itemloaders](https://github.com/scrapy/itemloaders) Library to populate items using XPath and CSS with a convenient API.
+
 ## Resources
 
 ### Articles
