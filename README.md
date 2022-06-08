@@ -29,6 +29,7 @@
 
 ### Distributed Spider
 
+* [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) Distributed on demand scraping cluster using Redis and Kafka.
 * [scrapy-redis](https://github.com/rmax/scrapy-redis) Redis-based components for Scrapy.
 
 ### Scrapy Service
