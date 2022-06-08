@@ -114,6 +114,8 @@
 
 * [itemadapter](https://github.com/scrapy/itemadapter) Adapter which provides a common interface to handle objects of different types in an uniform manner.
 
+* [scrapy-poet](https://github.com/scrapinghub/scrapy-poet) Page Object pattern implementation which enables writing reusable and portable extraction and crawling code.
+
 ## Resources
 
 ### Articles
