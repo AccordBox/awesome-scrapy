@@ -63,6 +63,8 @@
 
 * [scrapy-fieldstats](https://github.com/stummjr/scrapy-fieldstats) A Scrapy extension to log items coverage when the spider shuts down
 
+* [spidermon](https://github.com/scrapinghub/spidermon) Extension which provides useful tools for data validation, stats monitoring, and notification messages.
+
 ### Avoid Ban
 
 * [HttpProxyMiddleware](https://github.com/kohn/HttpProxyMiddleware) A middleware for scrapy. Used to change HTTP proxy from time to time.
