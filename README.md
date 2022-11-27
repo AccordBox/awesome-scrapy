@@ -134,6 +134,8 @@
 
 * [Advanced Web Scraping: Bypassing "403 Forbidden," captchas, and more](http://sangaline.com/post/advanced-web-scraping-tutorial/)
 
+* [Explore Scrapy libraries on kandi: A platform to discover & find a curated list of popular & new libraries, frameworks, trending project kits, code snippets, packages, APIs, and cloud functions from over 430 million knowledge items.](https://kandi.openweaver.com/search/libraries?q=scrapy)
+
 ### Exercises
 
 * [Learn and improve web scraping skills with Web Scraping Exercises](https://scrapingclub.com/)
