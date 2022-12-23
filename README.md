@@ -144,4 +144,4 @@
 
 ### Book
 
-* [Learning Scrapy](https://www.amazon.com/dp/B0166Y6Z70/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+* [Learning Scrapy](https://www.amazon.com/Learning-Scrapy-Dimitrios-Kouzis-Loukas/dp/1784399787/ref=nosim?tag=where2buyit-20)
