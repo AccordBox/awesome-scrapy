@@ -80,6 +80,8 @@
 
 * [scrapy-crawlera](https://github.com/scrapy-plugins/scrapy-crawlera) Crawlera routes requests through a pool of IPs, throttling access by introducing delays and discarding IPs from the pool when they get banned from certain domains, or have other problems.
 
+* [scrapy-proxycrawl-middleware](https://github.com/proxycrawl/scrapy-proxycrawl-middleware) ProxyCrawl middleware allows to bypass captchas and blocks without using proxies.
+
 ### Data Processing
 
 * [scrapy-elasticsearch](https://github.com/knockrentals/scrapy-elasticsearch) A scrapy pipeline which send items to Elastic Search server
