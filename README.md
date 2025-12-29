@@ -80,6 +80,8 @@
 
 * [scrapy-crawlera](https://github.com/scrapy-plugins/scrapy-crawlera) Crawlera routes requests through a pool of IPs, throttling access by introducing delays and discarding IPs from the pool when they get banned from certain domains, or have other problems.
 
+* [scrapy-proxy-headers](https://github.com/proxymesh/scrapy-proxy-headers) Scrapy extension for better handling of proxy headers
+
 ### Data Processing
 
 * [scrapy-elasticsearch](https://github.com/knockrentals/scrapy-elasticsearch) A scrapy pipeline which send items to Elastic Search server
