@@ -90,6 +90,8 @@
 
 * [scrapy-s3pipeline](https://github.com/orangain/scrapy-s3pipeline) Scrapy pipeline to store chunked items into AWS S3 bucket
 
+* [NextJSON](https://nextjson.com/) Free online nested JSON parser and formatter for inspecting and cleaning JSON items exported from Scrapy spiders.
+
 * [scrapy-sqs-exporter](https://github.com/multiplechoice/scrapy-sqs-exporter) Scrapy extension for outputting scraped items to an Amazon SQS instance
 
 * [scrapy-kafka-export](https://github.com/TeamHG-Memex/scrapy-kafka-export) Scrapy extension which writes crawled items to Kafka
